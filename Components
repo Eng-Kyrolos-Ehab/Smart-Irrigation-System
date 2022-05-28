@@ -1,0 +1,21 @@
+stm32f103c6 / c8   "we recommend c8"
+
+to get heat: DS18B20
+ - https://www.amazon.com/Gikfun-DS18B20-Temperature-Waterproof-EK1083x3/dp/B012C597T0/ref=sr_1_5?keywords=temperature+sensor+arduino&qid=1653780480&sprefix=temperature+sensor+%2Caps%2C328&sr=8-5
+
+to get soil mostuer: 3.3V-5V Soil Moisture Detect Sensor
+ - https://www.amazon.com/HiLetgo-Moisture-Automatic-Watering-Arduino/dp/B01DKISKLO/ref=sr_1_4?crid=12XWNDAUU3BJH&keywords=soil+moisture+meter+arduino&qid=1653780398&sprefix=soil+moisture+meter+a%2Caps%2C222&sr=8-4
+
+braed board
+led
+wires 
+4.7 KOhm u can use for temperatuer sensor
+100 - 300 Ohm for led
+water pump 5volt
+relay 5 volt
+vharger 5 v to help stm to make water pump on 
+
+
+
+
+there are many videos in youtube teach u how to connect this pieces  
