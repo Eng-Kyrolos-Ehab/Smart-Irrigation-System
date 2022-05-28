@@ -1,1 +1,11 @@
-
+DallasTemperature
+DHT12_sensor_library
+DS18B20
+DS18B20_int
+DS18B20_RT
+DS2431
+MAX31850_DallasTemp
+MAX31850_OneWire
+OneWire
+OneWireHub
+OneWireNg
